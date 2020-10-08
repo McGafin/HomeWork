@@ -1,0 +1,11 @@
+C:\Users\zizbl\Documents\C#Projects\Task4\Task4\bin\Debug\netcoreapp3.1\Task4.exe
+C:\Users\zizbl\Documents\C#Projects\Task4\Task4\bin\Debug\netcoreapp3.1\Task4.deps.json
+C:\Users\zizbl\Documents\C#Projects\Task4\Task4\bin\Debug\netcoreapp3.1\Task4.runtimeconfig.json
+C:\Users\zizbl\Documents\C#Projects\Task4\Task4\bin\Debug\netcoreapp3.1\Task4.runtimeconfig.dev.json
+C:\Users\zizbl\Documents\C#Projects\Task4\Task4\bin\Debug\netcoreapp3.1\Task4.dll
+C:\Users\zizbl\Documents\C#Projects\Task4\Task4\bin\Debug\netcoreapp3.1\Task4.pdb
+C:\Users\zizbl\Documents\C#Projects\Task4\Task4\obj\Debug\netcoreapp3.1\Task4.csprojAssemblyReference.cache
+C:\Users\zizbl\Documents\C#Projects\Task4\Task4\obj\Debug\netcoreapp3.1\Task4.AssemblyInfoInputs.cache
+C:\Users\zizbl\Documents\C#Projects\Task4\Task4\obj\Debug\netcoreapp3.1\Task4.AssemblyInfo.cs
+C:\Users\zizbl\Documents\C#Projects\Task4\Task4\obj\Debug\netcoreapp3.1\Task4.dll
+C:\Users\zizbl\Documents\C#Projects\Task4\Task4\obj\Debug\netcoreapp3.1\Task4.pdb

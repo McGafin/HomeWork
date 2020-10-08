@@ -1,0 +1,11 @@
+C:\Users\zizbl\source\repos\Task18\Task18\bin\Debug\netcoreapp3.1\Task18.exe
+C:\Users\zizbl\source\repos\Task18\Task18\bin\Debug\netcoreapp3.1\Task18.deps.json
+C:\Users\zizbl\source\repos\Task18\Task18\bin\Debug\netcoreapp3.1\Task18.runtimeconfig.json
+C:\Users\zizbl\source\repos\Task18\Task18\bin\Debug\netcoreapp3.1\Task18.runtimeconfig.dev.json
+C:\Users\zizbl\source\repos\Task18\Task18\bin\Debug\netcoreapp3.1\Task18.dll
+C:\Users\zizbl\source\repos\Task18\Task18\bin\Debug\netcoreapp3.1\Task18.pdb
+C:\Users\zizbl\source\repos\Task18\Task18\obj\Debug\netcoreapp3.1\Task18.csprojAssemblyReference.cache
+C:\Users\zizbl\source\repos\Task18\Task18\obj\Debug\netcoreapp3.1\Task18.AssemblyInfoInputs.cache
+C:\Users\zizbl\source\repos\Task18\Task18\obj\Debug\netcoreapp3.1\Task18.AssemblyInfo.cs
+C:\Users\zizbl\source\repos\Task18\Task18\obj\Debug\netcoreapp3.1\Task18.dll
+C:\Users\zizbl\source\repos\Task18\Task18\obj\Debug\netcoreapp3.1\Task18.pdb

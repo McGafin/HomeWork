@@ -1,0 +1,10 @@
+C:\Users\zizbl\Documents\C#Projects\Task7\Task7\bin\Debug\netcoreapp3.1\Task7.exe
+C:\Users\zizbl\Documents\C#Projects\Task7\Task7\bin\Debug\netcoreapp3.1\Task7.deps.json
+C:\Users\zizbl\Documents\C#Projects\Task7\Task7\bin\Debug\netcoreapp3.1\Task7.runtimeconfig.json
+C:\Users\zizbl\Documents\C#Projects\Task7\Task7\bin\Debug\netcoreapp3.1\Task7.runtimeconfig.dev.json
+C:\Users\zizbl\Documents\C#Projects\Task7\Task7\bin\Debug\netcoreapp3.1\Task7.dll
+C:\Users\zizbl\Documents\C#Projects\Task7\Task7\bin\Debug\netcoreapp3.1\Task7.pdb
+C:\Users\zizbl\Documents\C#Projects\Task7\Task7\obj\Debug\netcoreapp3.1\Task7.AssemblyInfoInputs.cache
+C:\Users\zizbl\Documents\C#Projects\Task7\Task7\obj\Debug\netcoreapp3.1\Task7.AssemblyInfo.cs
+C:\Users\zizbl\Documents\C#Projects\Task7\Task7\obj\Debug\netcoreapp3.1\Task7.dll
+C:\Users\zizbl\Documents\C#Projects\Task7\Task7\obj\Debug\netcoreapp3.1\Task7.pdb
